@@ -2,10 +2,11 @@ Hi there, I'm Marcelo! 👋
 
 # Self-taught Fullstack developer from Brazil.
 
-🔭 I’m currently working on my project Hamburgy
-🌱 I’m currently Typescript and ORMs
+🔭 I’m currently working on my project Hamburgy <br />
+🌱 I’m currently Typescript and ORMs <br />
 💬 Ask me about anything here
 
+<br />
 # Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -19,5 +20,8 @@ Hi there, I'm Marcelo! 👋
 
 <br />
 <br />
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marcelo-schreiber&show_icons=true&hide_border=true" />
+# Stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=marcelo-schreiber&show_icons=true&hide_border=true" />
+</details
