@@ -1,13 +1,16 @@
-Hi there, I'm Marcelo! 👋
+# Hi there, I'm Marcelo! 👋
 
-# Self-taught Fullstack developer from Brazil.
+## Self-taught Fullstack developer from Brazil.
 
 - 🔭 I’m currently working on my project Hamburgy <br />
 - 🌱 I’m currently Typescript and ORMs <br />
 - 💬 Ask me about anything here <br />
 - ⚡ Fun fact: I love chess and maths 
 
-# Languages and Tools:
+<br />
+<br />
+
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -17,6 +20,11 @@ Hi there, I'm Marcelo! 👋
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+## Stats
 
 <details>
   <summary>:zap: GitHub Stats</summary>
