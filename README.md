@@ -3,9 +3,9 @@
 ## Self-taught Fullstack developer from Brazil.
 
 - 🔭 I’m currently working on my project T1Forum <br />
-- 🌱 I’m currently Typescript and ORMs <br />
+- 🌱 I’m currently learning Typescript and ORMs <br />
 - 💬 Ask me about anything here <br />
-- ⚡ Fun fact: I love chess and maths 
+- ⚡ Fun fact: I love playing chess and osu! 
 
 <br />
 
