@@ -3,7 +3,7 @@
 ## Self-taught Fullstack developer from Brazil.
 
 - 🔭 I’m currently finishing my project 'T1GForum' <br />
-- 🌱 I’m currently learning ORMs and GraphQL <br />
+- 🌱 I’m currently learning typeORM and GraphQL <br />
 - 💬 Ask me about anything here <br />
 - ⚡ Fun fact: I love playing chess and osu! 
 
