@@ -2,10 +2,10 @@
 
 ## Self-taught Fullstack developer from Brazil.
 
-- 🔭 I’m currently finishing my project 'T1GForum' <br />
+- 🔭 I’m currently creating a COVID-19 API for Curitiba Developers <br />
 - 🌱 I’m currently learning typeORM and GraphQL <br />
 - 💬 Ask me about anything here <br />
-- ⚡ Fun fact: I love playing chess and osu! 
+- ⚡ Fun fact: I love playing chess and counter strike! 
 
 <br />
 
