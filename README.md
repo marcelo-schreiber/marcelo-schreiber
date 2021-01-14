@@ -3,7 +3,7 @@
 ## Self-taught Fullstack developer from Brazil.
 
 - 🔭 I’m currently creating a COVID-19 API for Curitiba Developers <br />
-- 🌱 I’m currently learning typeORM and GraphQL <br />
+- 🌱 I’m currently learning Java and Spring boot <br />
 - 💬 Ask me about anything here <br />
 - ⚡ Fun fact: I love playing chess and counter strike! 
 
