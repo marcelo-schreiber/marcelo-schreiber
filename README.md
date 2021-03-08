@@ -2,8 +2,8 @@
 
 ## Self-taught Fullstack developer from Brazil.
 
-- 🔭 I’m currently creating a COVID-19 API for Curitiba Developers <br />
-- 🌱 I’m currently developing a web learning platform <br />
+- 🔭 I’m currently creating a web learning platform <br />
+- 🌱 I’m currently learning ORMs and computer science principals <br />
 - 💬 Ask me about anything here <br />
 - ⚡ Fun fact: I love playing chess and counter strike! 
 
