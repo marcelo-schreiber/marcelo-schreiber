@@ -25,8 +25,8 @@
 <br />
 
 ## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-schreiber&show_icons=true&theme=radical)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-schreiber)](https://github.com/anuraghazra/github-readme-stats)
 </details>
