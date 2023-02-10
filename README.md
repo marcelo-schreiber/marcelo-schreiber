@@ -19,3 +19,4 @@
 
 ## Stats
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-schreiber&show_icons=true&theme=radical)
+![Marcelo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-schreiber&amp;layout=compact&amp;langs_count=5&amp;theme=radical)
