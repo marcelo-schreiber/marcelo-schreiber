@@ -1,5 +1,5 @@
 # Hi there, I'm Marcelo! 👋
-Computer Science student at [UFPR](https://ufpr.br/) and an intern at [vidya](https://vidyatec.com/)
+Computer Science student at [UFPR](https://ufpr.br/) and an intern at [Vidya](https://vidyatec.com/)
 ## Languages and Tools:
 ![Marcelo's Languages and tools](https://skillicons.dev/icons?i=ts,js,c,python,react,nodejs,postgresql)
 <br />
